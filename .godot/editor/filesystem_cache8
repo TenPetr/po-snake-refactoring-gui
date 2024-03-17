@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710674940
+icon.svg::CompressedTexture2D::4790867487095155548::1710576739::1710576745::1::::<><>::
+::res://assets/::1710675116
+bg.png::CompressedTexture2D::6350281046276706971::1710669343::1710669346::1::::<><>::
+emerald.png::CompressedTexture2D::4845905756891617640::1710669703::1710669725::1::::<><>::
+emerald.svg::CompressedTexture2D::8162153972651087679::1710675054::1710675121::1::::<><>::
+::res://scenes/::1710674765
+game_over_menu.gd::GDScript::-1::1710585571::0::1::::<>CanvasLayer<>::
+game_over_menu.tscn::PackedScene::6089688455671489842::1710674765::0::1::::<><>::res://scenes/game_over_menu.gd
+hud.tscn::PackedScene::6901769065505527663::1710674765::0::1::::<><>::
+main.gd::GDScript::-1::1710674753::0::1::::<>Node<>::
+main.tscn::PackedScene::6887124344958672019::1710674765::0::1::::<><>::res://scenes/main.gd<>uid://cwqeg3n4alra6::::res://assets/bg.png<>uid://iirof6jppgx2::::res://scenes/snake_segment.tscn<>uid://c5ljemeyrpbv0::::res://scenes/hud.tscn<>uid://cbbnmh7m3q66o::::res://assets/emerald.png<>uid://cs05jqxyt3x1s::::res://scenes/game_over_menu.tscn
+snake_segment.tscn::PackedScene::579083272063684489::1710674765::0::1::::<><>::
